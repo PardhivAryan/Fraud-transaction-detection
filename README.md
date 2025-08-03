@@ -44,15 +44,24 @@ The dataset is a **simulated representation** of real-world banking transactions
 
 ## 📂 Project Structure
 
-- 📓 [Colab Notebook](https://colab.research.google.com/drive/1SWdFF9pAzddAHH_ZcF66NHjhl5uoot2C): Main notebook on Google Colab  
-- 📄 [Fraud_Transaction_Detection.pdf](./Fraud_Transaction_Detection.pdf): Project report  
+## 📂 Project Structure
+
+- 📓 Fraud_Detection_Colab.ipynb: Main notebook with fraud detection code  
+- 📄 [Fraud_Transaction_Detection.pdf](https://github.com/PardhivAryan/Fraud-transaction-detection/blob/main/Fraud_Transaction_Detection.pdf): Project report  
 - 📘 README.md: Project overview
+
 
 ---
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### ▶️ Run Online
+You can run the notebook directly in Google Colab using this link:  
+🔗 [Open in Colab](https://colab.research.google.com/drive/1SWdFF9pAzddAHH_ZcF66NHjhl5uoot2C)
+
+### 💻 Run Locally
+1. Clone the repo:
 ```bash
 git clone https://github.com/PardhivAryan/Fraud-transaction-detection.git
 cd Fraud-transaction-detection
+
