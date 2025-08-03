@@ -46,7 +46,7 @@ The dataset is a **simulated representation** of real-world banking transactions
 
 ## 📂 Project Structure
 
-- 📓 Fraud_Detection_Colab.ipynb: Main notebook with fraud detection code  
+- 📓 Fraud_Detection.ipynb: Main notebook with fraud detection code  
 - 📄 [Fraud_Transaction_Detection.pdf](https://github.com/PardhivAryan/Fraud-transaction-detection/blob/main/Fraud_Transaction_Detection.pdf): Project report  
 - 📘 README.md: Project overview
 
