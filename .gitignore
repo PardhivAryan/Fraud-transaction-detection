@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system file
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# If dataset is huge, you can ignore it (optional)
+# data/
