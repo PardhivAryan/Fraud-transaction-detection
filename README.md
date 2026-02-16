@@ -122,7 +122,7 @@ fraud-transaction-detection/
 
 ```bash
 # If you haven't cloned yet:
-git clone https://github.com/<YOUR_USERNAME>/fraud-transaction-detection.git
+git clone https://github.com/PardhivAryan/fraud-transaction-detection.git
 cd fraud-transaction-detection
 ```
 
